@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Eye See — Real-Time Face Detection App
+  # 👁️‍🗨️ Eye See — Real-Time Face Detection App
 
 > A desktop application for face detection using OpenCV's DNN (deep neural network) module and a sleek PyQt5 user interface.  
 > Works offline, supports multiple lighting conditions, and highlights detected faces using a fast SSD + ResNet model.
@@ -20,7 +20,7 @@
 ### 1. Low light detection comparison
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap1.png) | ![](images/snap1_imagedetect.png) |
+| ![](Images/snap1.png) | ![](Images/snap1_imagedetect.png) |
 > Low light face detection comparison showing original and processed output
 
 ---
@@ -28,21 +28,21 @@
 ### 2. Side profile detection
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap3.png) | ![](images/snap3_imagedetect.png) |
+| ![](Images/snap3.png) | ![](Images/snap3_imagedetect.png) |
 
 ---
 
 ### 3. Detection with various poses
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap6.png) | ![](images/snap6_imagedetect.png) |
+| ![](Images/snap6.png) | ![](Images/snap6_imagedetect.png) |
 
 ---
 
 ### 4. Resistant to false positives
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap7.png) | ![](images/snap7_imagedetect.png) |
+| ![](Images/snap7.png) | ![](Images/snap7_imagedetect.png) |
 > Doesn't detect random masks or objects with eyes
 
 ---
@@ -50,14 +50,14 @@
 ### 5. Phone face detection via webcam
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap12.png) | ![](images/snap12_imagedetect.png) |
+| ![](Images/snap12.png) | ![](Images/snap12_imagedetect.png) |
 
 ---
 
 ### 6. Multi-face detection on phone screens
 | Original | Processed |
 |----------|-----------|
-| ![](images/snap16.png) | ![](images/snap16_imagedetect.png) |
+| ![](Images/snap16.png) | ![](Images/snap16_imagedetect.png) |
 
 ---
 
