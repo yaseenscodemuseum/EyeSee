@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Eye_See — Real-Time Face Detection App
+# 👁️‍🗨️ Eye See — Real-Time Face Detection App
 
 > A desktop application for face detection using OpenCV's DNN (deep neural network) module and a sleek PyQt5 user interface.  
 > Works offline, supports multiple lighting conditions, and highlights detected faces using a fast SSD + ResNet model.
