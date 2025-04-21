@@ -9,7 +9,7 @@
 
 - ⚡ Modern face detection using OpenCV's **DNN module** (ResNet-SSD)
 - 🎮 Pixel-style **PyQt5 UI** with glowing labels and snapshot buttons
-- 📸 Saves both **raw and detected** snapshots
+- 📸 Saves both **raw and processed** snapshots
 - 🌑 Dark mode with optional pixel-art background
 - 🧠 Smarter than Haar — works with side faces, low light, and phones
 
