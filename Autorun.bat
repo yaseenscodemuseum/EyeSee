@@ -1,4 +1,4 @@
 @echo off
-cd /d "C:\Users\ASUS\Desktop\Github\py\Face detection"
+cd /d "%~dp0"
 python Eye_See.py
 pause
