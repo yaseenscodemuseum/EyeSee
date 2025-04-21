@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Eye_See — Real-Time Face Detection App
 
-> **AI-powered desktop app** that captures and detects faces using OpenCV DNN and a clean custom UI built with PyQt5.  
+> **Open CV-powered desktop app** that captures and detects faces using OpenCV DNN and a clean custom UI built with PyQt5.  
 > Works offline, supports multiple lighting conditions, and highlights detected faces using a fast SSD + ResNet model.
 
 ---
