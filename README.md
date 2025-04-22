@@ -15,9 +15,11 @@
 
 ---
 
-##App GUI
+## 🖥️ App GUI
 
 ![](Images/Screenshot.png)
+
+> The Eye_See desktop interface built with PyQt5 — featuring a real-time webcam feed, glowing labels, toggle buttons, and dual snapshot functionality.
 
 ## 🖼️ Detection Examples
 
